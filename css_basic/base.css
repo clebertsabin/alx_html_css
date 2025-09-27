@@ -1,0 +1,32 @@
+/* Base styles for ALX project */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9;
+}
+
+header, footer {
+    background-color: #333;
+    color: white;
+    padding: 1rem;
+}
+
+header ul {
+    list-style-type: none;
+    display: flex;
+    gap: 1rem;
+}
+
+header ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+header ul li.logo {
+    font-size: 1.5rem;
+}
+
+footer a {
+    color: white;
+}
