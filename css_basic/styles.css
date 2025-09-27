@@ -1,7 +1,5 @@
-/* Flexbox layout for index and tweets pages */
-
 /* Body and main as flex containers */
-body {
+/*body {
     display: flex;
     flex-direction: column;
     min-height: 100vh;
@@ -16,7 +14,7 @@ main {
 }
 
 /* Article and aside widths */
-main article {
+/*main article {
     flex: 2;
     overflow-y: auto;
     padding: 1rem;
@@ -33,7 +31,7 @@ main aside {
 }
 
 /* Table styling */
-table {
+/*table {
     width: 100%;
     border-collapse: collapse;
     margin-top: 1rem;
@@ -46,7 +44,7 @@ table th, table td {
 }
 
 /* Responsive for smartphone */
-body.works_on_smartphone main {
+/*body.works_on_smartphone main {
     flex-direction: column;
 }
 
