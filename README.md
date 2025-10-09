@@ -37,4 +37,4 @@ This is a responsive landing page for **Headphones**, designed to match the prov
 ## ⚡ How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/headphones-landing.git
+   git clone https://github.com/clebertsabin/alx_html_css.git
